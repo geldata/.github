@@ -14,12 +14,27 @@
 <br />
 <br />
 
-EdgeDB is a new kind of database that takes the best parts of relational databases, graph databases, and ORMs. We call it a **graph-relational database**. Jump in with the [10-minute Quickstart](https://www.edgedb.com/docs/guides/quickstart).
+EdgeDB is a new kind of database that takes the best parts of relational databases, graph databases, and ORMs. We call it a **graph-relational database**. Try the [10-minute Quickstart](https://www.edgedb.com/docs/guides/quickstart).
 
-- [Website](https://www.edgedb.com)
-- [Docs](https://www.edgedb.com/docs)
-- [EdgeQL showcase](https://www.edgedb.com/showcase/edgeql)
-- [EdgeQL tutorial](https://www.edgedb.com/tutorial)
-- [Blog](https://www.edgedb.com/blog)
-- [Discord](https://discord.gg/umUueND6ag)
-- [Twitter](https://twitter.com/edgedatabase)
+### Useful links
+
+- [Main repo: github.com/edgedb/edgedb](https://www.github.com/edgedb/edgedb) ⭐️
+- [Website: edgedb.com](https://www.edgedb.com)
+- [Docs: edgedb.com/docs](https://www.edgedb.com/docs)
+- [EdgeQL showcase: edgedb.com/showcase/edgeql](https://www.edgedb.com/showcase/edgeql)
+- [Interactive tutorial: gedb.com/tutorial](https://www.edgedb.com/tutorial)
+- [Blog: edgedb.com/blog](https://www.edgedb.com/blog)
+
+### Client libraries
+
+- [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb-js)
+- [Python](https://www.github.com/edgedb/edgedb-python)
+- [Golang](https://www.github.com/edgedb/edgedb-go)
+- [Elixir](https://github.com/nsidnev/edgedb-elixir) (community-maintained)
+- [.NET](https://github.com/quinchs/edgedb.net) (community-maintained)
+
+Using another language? You can [execute EdgeQL over HTTP](https://www.edgedb.com/docs/clients/90_edgeql/index), even without an official client library!
+
+---
+
+Join our [Discord](https://discord.gg/umUueND6ag) and follow [@edgedatabase](https://twitter.com/edgedatabase) on Twitter!
