@@ -18,12 +18,12 @@ EdgeDB is a new kind of database that takes the best parts of relational databas
 
 ### Useful links
 
-- [Main repo: github.com/edgedb/edgedb](https://www.github.com/edgedb/edgedb) ⭐️
-- [Website: edgedb.com](https://www.edgedb.com)
-- [Docs: edgedb.com/docs](https://www.edgedb.com/docs)
-- [EdgeQL showcase: edgedb.com/showcase/edgeql](https://www.edgedb.com/showcase/edgeql)
-- [Interactive tutorial: gedb.com/tutorial](https://www.edgedb.com/tutorial)
-- [Blog: edgedb.com/blog](https://www.edgedb.com/blog)
+- [Main repo](https://www.github.com/edgedb/edgedb) ⭐️
+- [Website](https://www.edgedb.com)
+- [Docs](https://www.edgedb.com/docs)
+- [EdgeQL showcase](https://www.edgedb.com/showcase/edgeql)
+- [Interactive tutorial](https://www.edgedb.com/tutorial)
+- [Blog](https://www.edgedb.com/blog)
 
 ### Client libraries
 
