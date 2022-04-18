@@ -1,6 +1,3 @@
-<div align="center">
-  <h1>EdgeDB</h1>
-</div>
 <p align="center">
   <a href="https://www.edgedb.com">
     <img src="https://edgedb.com/github_banner.png">
@@ -18,22 +15,24 @@ EdgeDB is a new kind of database that takes the best parts of relational databas
 
 ### Useful links
 
-- [Main repo](https://www.github.com/edgedb/edgedb) ⭐️
-- [Website](https://www.edgedb.com)
-- [Docs](https://www.edgedb.com/docs)
-- [EdgeQL showcase](https://www.edgedb.com/showcase/edgeql)
-- [Interactive tutorial](https://www.edgedb.com/tutorial)
-- [Blog](https://www.edgedb.com/blog)
+[Main repo ⭐️](https://www.github.com/edgedb/edgedb) &centerdot;
+ [Website](https://www.edgedb.com) &centerdot;
+ [Docs](https://www.edgedb.com/docs) &centerdot;
+ [EdgeQL showcase](https://www.edgedb.com/showcase/edgeql) &centerdot;
+ [Interactive tutorial](https://www.edgedb.com/tutorial) &centerdot;
+ [Blog](https://www.edgedb.com/blog)
 
 ### Client libraries
 
-- [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb-js)
-- [Python](https://www.github.com/edgedb/edgedb-python)
-- [Golang](https://www.github.com/edgedb/edgedb-go)
-- [Elixir](https://github.com/nsidnev/edgedb-elixir) (community-maintained)
-- [.NET](https://github.com/quinchs/edgedb.net) (community-maintained)
+Official libraries: [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb-js) &centerdot;
+ [Python](https://www.github.com/edgedb/edgedb-python) &centerdot;
+ [Golang](https://www.github.com/edgedb/edgedb-go)
 
-Using another language? You can [execute EdgeQL over HTTP](https://www.edgedb.com/docs/clients/90_edgeql/index), even without an official client library!
+
+Community-maintained: [Elixir](https://github.com/nsidnev/edgedb-elixir) &centerdot;
+ [.NET](https://github.com/quinchs/edgedb.net)
+
+Using another language? You can [run EdgeQL over HTTP](https://www.edgedb.com/docs/clients/90_edgeql/index), even without an official client library!
 
 ---
 
