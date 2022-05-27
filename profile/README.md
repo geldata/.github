@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/stars/edgedb/edgedb" alt="Stars">
 </a>
 
+<a href="https://discord.gg/umUueND6ag">
+  <img alt="discord" src="https://img.shields.io/discord/841451783728529451?color=5865F2&label=discord&logo=discord&logoColor=8a9095">
+</a>
+
 <br />
 <br />
 
