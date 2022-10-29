@@ -31,11 +31,10 @@ EdgeDB is a new kind of database that takes the best parts of relational databas
 Official libraries: [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb-js) &centerdot;
  [Python](https://www.github.com/edgedb/edgedb-python) &centerdot;
  [Golang](https://www.github.com/edgedb/edgedb-go) &centerdot;
- [Rust](https://github.com/edgedb/edgedb-rust)
+ [Rust](https://github.com/edgedb/edgedb-rust) &centerdot;
+ [.NET](https://github.com/edgedb/edgedb-net)
 
-
-Community-maintained: [Elixir](https://github.com/nsidnev/edgedb-elixir) &centerdot;
- [.NET](https://github.com/quinchs/edgedb.net)
+Community-maintained: [Elixir](https://github.com/nsidnev/edgedb-elixir)
 
 Using another language? You can [run EdgeQL over HTTP](https://www.edgedb.com/docs/clients/90_edgeql/index), even without an official client library!
 
