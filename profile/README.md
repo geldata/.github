@@ -35,7 +35,7 @@ Official libraries: [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb
 
 
 Community-maintained: [Elixir](https://github.com/nsidnev/edgedb-elixir) &centerdot;
- [.NET](https://github.com/quinchs/edgedb.net)
+ [.NET](https://github.com/edgedb/edgedb-net)
 
 Using another language? You can [run EdgeQL over HTTP](https://www.edgedb.com/docs/clients/90_edgeql/index), even without an official client library!
 
