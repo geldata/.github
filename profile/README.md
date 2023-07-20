@@ -32,7 +32,9 @@ Official libraries: [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb
  [Python](https://www.github.com/edgedb/edgedb-python) &centerdot;
  [Golang](https://www.github.com/edgedb/edgedb-go) &centerdot;
  [Rust](https://github.com/edgedb/edgedb-rust) &centerdot;
- [.NET](https://github.com/edgedb/edgedb-net)
+ [.NET](https://github.com/edgedb/edgedb-net) &centerdot;
+ [Java](https://github.com/edgedb/edgedb-java) &centerdot;
+ [Dart](https://github.com/edgedb/edgedb-dart)
 
 Community-maintained: [Elixir](https://github.com/nsidnev/edgedb-elixir)
 
