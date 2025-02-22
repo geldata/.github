@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://www.edgedb.com">
     <img src="https://edgedb.com/github_banner.png">
   </a>
@@ -13,30 +13,29 @@
 </a>
 
 <br />
-<br />
+<br />-->
 
-EdgeDB is a new kind of database that takes the best parts of relational databases, graph databases, and ORMs. We call it a **graph-relational database**. Try the [10-minute Quickstart](https://www.edgedb.com/docs/guides/quickstart).
+Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. Try the [Quickstart](https://docs.geldata.com/).
+
+**Gel used to be called EdgeDB.**
 
 ### Useful links
 
-[Main repo ⭐️](https://www.github.com/edgedb/edgedb) &centerdot;
- [Website](https://www.edgedb.com) &centerdot;
- [Docs](https://www.edgedb.com/docs) &centerdot;
- [EdgeQL showcase](https://www.edgedb.com/showcase/edgeql) &centerdot;
- [Interactive tutorial](https://www.edgedb.com/tutorial) &centerdot;
- [Blog](https://www.edgedb.com/blog)
+[Main repo ⭐️](https://www.github.com/geldata/geldata) &centerdot;
+ [Website](https://www.geldata.com) &centerdot;
+ [Docs](https://docs.geldata.com) &centerdot;
+ [Blog](https://www.geldata.com/blog)
 
 ### Client libraries
 
-Official libraries: [JavaScript/TypeScript](https://www.github.com/edgedb/edgedb-js) &centerdot;
- [Python](https://www.github.com/edgedb/edgedb-python) &centerdot;
- [Golang](https://www.github.com/edgedb/edgedb-go) &centerdot;
- [Rust](https://github.com/edgedb/edgedb-rust) &centerdot;
- [.NET](https://github.com/edgedb/edgedb-net)
+Official libraries: [JavaScript/TypeScript](https://www.github.com/geldata/gel-js) &centerdot;
+ [Python](https://www.github.com/geldata/gel-python) &centerdot;
+ [Golang](https://www.github.com/geldata/gel-go) &centerdot;
+ [Rust](https://github.com/geldata/gel-rust) &centerdot;
+ [Dart](https://github.com/geldata/gel-dart)
 
-Community-maintained: [Elixir](https://github.com/nsidnev/edgedb-elixir)
+Community-maintained: [Elixir](https://github.com/geldata/gel-elixir) &centerdot; [.NET](https://github.com/geldata/gel-net) &centerdot; [Java](https://github.com/geldata/gel-java)
 
-Using another language? You can [run EdgeQL over HTTP](https://www.edgedb.com/docs/clients/90_edgeql/index), even without an official client library!
 
 ---
 
