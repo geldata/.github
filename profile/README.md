@@ -21,7 +21,7 @@ Gel supercharges Postgres with a modern data model, graph queries, Auth & AI sol
 
 ### Useful links
 
-[Main repo ⭐️](https://www.github.com/geldata/geldata) &centerdot;
+[Main repo ⭐️](https://www.github.com/geldata/gel) &centerdot;
  [Website](https://www.geldata.com) &centerdot;
  [Docs](https://docs.geldata.com) &centerdot;
  [Blog](https://www.geldata.com/blog)
